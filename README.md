@@ -1,4 +1,4 @@
-# 🔐 Cofre Pessoal
+# 🔐 Lockbox
 
 <div align="center">
   <img src="https://img.shields.io/badge/language-C-blue.svg" alt="Language">
